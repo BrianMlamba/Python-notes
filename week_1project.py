@@ -59,8 +59,7 @@ else :
     questions = {1,2,3,4,5}
     random.shuffle (questions)
     print(questions)
-#for q in range(6):    
-  #  print( "Question" , "Multiple choice A,B, C, D", " answer" q :)  
+
   
   
      
